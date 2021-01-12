@@ -1,6 +1,6 @@
  Title
- It is me, the description portion of the code
-Simple (or clever and funny?) description
+It is me, the description portion of the code
+
 
 ## Table of Contents
 
@@ -14,6 +14,7 @@ Simple (or clever and funny?) description
 
 This is why this application exists.
 
+
 ## Install
 
 These are the steps to setup your local environment to run this application.
@@ -23,3 +24,5 @@ These are the steps to setup your local environment to run this application.
 These are the steps to use the application or interact with it.
 
 ### Any optional sections
+  Extension
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
