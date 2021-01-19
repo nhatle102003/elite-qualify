@@ -30,6 +30,6 @@ To test the project:
 1.  Run the test
 2.  Check the results
 
-### Any optional sections
-  Extension
+### Extensions
+
 https://www.youtube.com/watch?v=dQw4w9WgXcQ
