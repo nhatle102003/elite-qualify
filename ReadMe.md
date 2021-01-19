@@ -23,6 +23,13 @@ These are the steps to setup your local environment to run this application.
 
 These are the steps to use the application or interact with it.
 
+## Test Plan
+
+To test the project:
+
+1.  Run the test
+2.  Check the results
+
 ### Any optional sections
   Extension
 https://www.youtube.com/watch?v=dQw4w9WgXcQ
